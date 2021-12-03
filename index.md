@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## 献给我最亲爱的嫿
 
-You can use the [editor on GitHub](https://github.com/loveszetoforever/loveszetoforever/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+亲爱的嫿，曾经我跟你说过，科幻小说《三体》中有人给意中人送了一颗星星，今天，我把这个送给你。它就像茫茫信息宇宙的一颗星星，隐藏在众多星云之间，这是我们的秘密据点，是我们一生的约定，也是我们之间情感的见证。当你访问这个网站时就会看到我记录的对你的所思所想。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 2021/12/03
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+不止不觉，我们已经相识半年了，我把这个当做献给你的相遇半周年礼物。
 
 ```markdown
 Syntax highlighted code block
@@ -27,11 +25,3 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/loveszetoforever/loveszetoforever/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
